@@ -51,3 +51,36 @@ A beginner-friendly Python and Streamlit project for video analytics. This dashb
 Run the Streamlit dashboard with the following command:
 ```bash
 streamlit run dashboard.py
+```
+
+Open your browser and navigate to http://localhost:8501 to interact with the dashboard.
+
+## Dependencies
+
+- Python 3.x
+- streamlit
+- opencv-python
+- pandas
+- nltk
+
+---
+
+## Notes
+
+- This is an early learning project; some features may be basic.
+- The project is designed to demonstrate learning and experimentation rather than production-ready functionality.
+
+---
+
+## Future Improvements
+
+- Enhance the user interface for better navigation and usability.
+- Optimize scene detection and sentiment analysis for improved speed and accuracy.
+- Add additional visualizations for sentiment trends and scene summaries.
+
+---
+
+## License
+
+This project is open for learning purposes.
+
