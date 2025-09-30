@@ -17,6 +17,7 @@ A beginner-friendly Python and Streamlit project for video analytics. This dashb
 
 ![Dashboard Screenshot](https://github.com/user-attachments/assets/37b8a97e-f9be-4423-b372-1d0b53d4c4b7)
 
+![Dashboard Screenshot](https://github.com/user-attachments/assets/139684ea-ef99-4fd3-8dd3-83550dabc4d2)
 
 
 ---
